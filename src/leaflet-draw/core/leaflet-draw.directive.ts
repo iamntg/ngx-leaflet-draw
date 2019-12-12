@@ -1,7 +1,7 @@
 import { Directive, EventEmitter, Input, NgZone, OnChanges, OnInit, Output, SimpleChange } from '@angular/core';
 
 import * as L from 'leaflet';
-import 'leaflet-draw';
+import 'leaflet-draw-ntg';
 
 import { LeafletDirective, LeafletDirectiveWrapper, LeafletUtil } from '@asymmetrik/ngx-leaflet';
 

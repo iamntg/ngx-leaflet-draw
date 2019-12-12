@@ -7,7 +7,7 @@ export default {
 	external: [
 		'@angular/core',
 		'leaflet',
-		'leaflet-draw',
+		'leaflet-draw-ntg',
 		'@asymmetrik/ngx-leaflet'
 	],
 	output: {

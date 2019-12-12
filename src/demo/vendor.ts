@@ -16,8 +16,8 @@ import 'bootstrap/dist/css/bootstrap.css';
 import 'leaflet';
 import 'leaflet/dist/leaflet.css';
 
-import 'leaflet-draw';
-import 'leaflet-draw/dist/leaflet.draw.css';
+import 'leaflet-draw-ntg';
+import 'leaflet-draw-ntg/dist/leaflet.draw.css';
 
 // This addresses a weird thing with how Leaflet handles icon URLs. See README for details.
 import 'leaflet/dist/images/marker-shadow.png';
